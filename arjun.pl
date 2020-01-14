@@ -1,0 +1,11 @@
+#!/usr/bin/perl
+print"hello";
+$x=10;
+$y=20;
+print"1stvariable:$x\n";
+print"2ndvariable:$y\n";
+$z=$x+$y;
+print"sum:$z\n";
+$q=$y-$x;
+print"diff:$q\n";
+exit
